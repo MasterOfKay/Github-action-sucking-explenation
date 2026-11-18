@@ -3,5 +3,5 @@ export function add(first, second) {
 }
 
 export function multiply(first, second) {
-  retun first*second;
+  retun first * second;
 }
